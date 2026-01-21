@@ -1,12 +1,14 @@
-Poveznica na repozitorij koda:
+Poveznica na objavljeni Google Colab .ipynb:
+https://colab.research.google.com/drive/1MO_VFsgPoVb-q0laiClW-Lb_ImvZVc32?usp=sharing
+
+Poveznica na repozitorij koda (github):
 https://github.com/JakovKordic/PZAP-Analiza-pona-anja-kupaca-u-web-trgovini/tree/main
 
-! Vrlo je bitno da se skupovi podataka nalaze u odgovarajućem folderu ("/content/sample_data", preporučeno u Google Colabu pošto on već radi s ovakvom folder strukturom) inače će odmah puknuti izvršavanje. Ukoliko se skupovi podataka tamo ne nalaze morat ćete promijeniti DATA_DIR varijablu unutar samog notebook-a.
+! Vrlo je bitno da se skupovi podataka nalaze u odgovarajućem folderu("/content/sample_data", preporučeno u Google Colabu pošto on već radi s ovakvom folder strukturom) inače će odmah puknuti izvršavanje. Ukoliko se skupovi podataka tamo ne nalaze morat ćete promijeniti DATA_DIR varijablu unutar samog notebook-a.
 
 Upute je generirao Gemini kao odgovor na upit:
 Daj mi upute za pokretanje aplikacije unutar notebooka, slobodno navedi da ide ćeliju po ćeliju redom, analizirajući notebook
 
-Odgovor:
 UPUTE ZA POKRETANJE NOTEBOOKA
 
 Notebook je namijenjen izvrsavanju u Jupyter ili Google Colab okruzenju.
